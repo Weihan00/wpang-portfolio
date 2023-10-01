@@ -42,7 +42,7 @@ export default function Intro() {
           </motion.div>
 
           <motion.span
-            className="absolute bottom-0 right-0 text-4xl"
+            className=" bottom-0 right-0 text-4xl top-2"
             initial={{ opacity: 0, scale: 0 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{
@@ -62,8 +62,8 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Weihan.</span> I'm a{" "}
-        <span className="font-bold">IT specialist</span> with{" "}
+        <span className="font-bold">Hello, I'm Weihan Pang.</span> I'm a{" "}
+        <span className="font-bold">Data Analyst</span> with{" "}
         <span className="font-bold">4 years</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
         <span className="underline">React (Next.js)</span>.
@@ -108,7 +108,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com"
+          href="https://github.com/Weihan00?tab=repositories"
           target="_blank"
         >
           <FaGithubSquare />
