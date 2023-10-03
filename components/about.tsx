@@ -28,11 +28,11 @@ export default function About() {
         responsible for digital operations.
       </p>
       <p>
-        My responsibilities were two parts : Firstly, I conducted{" "}
-        <span className="font-medium">data modeling</span> using SQL and
-        visualized it through Tableau or PowerBI. Additionally, in response to
-        user demands for interactive data, such as digitizing paperwork for
-        various departments. I delved into{" "}
+        I implemented{" "}
+        <span className="font-medium">data ETL-process and data modeling</span>{" "}
+        using SQL and visualized it through Tableau or PowerBI. Additionally, in
+        response to user demands for interactive data, such as digitizing
+        paperwork for various departments. I delved into{" "}
         <span className="font-medium">front-end web development</span>, and also
         constructed APIs by using JavaScript and SQL for data retrieval.
       </p>
