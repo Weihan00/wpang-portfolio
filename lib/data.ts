@@ -35,10 +35,10 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Master degree",
-    location: "Dortmund, DE",
+    title: "Master degree - Informatik",
+    location: "TU Dortmund, DE",
     description:
-      "My master thesis was sentiment analysis by using machine learning algorithms. I was interested about data. I immediately found a job as a data analyst.",
+      "During my graduate studies, I delved into subjects like data mining and machine learning algorithms. I was interested about data. I immediately found a job as a data analyst.",
     icon: React.createElement(LuGraduationCap),
     date: "2014 - 2018",
   },
@@ -96,7 +96,6 @@ export const skillsData = [
   "Tailwind",
   "Chakra",
   "MongoDB",
-  "Redux",
   "Express",
   "Python",
   "Framer Motion",
