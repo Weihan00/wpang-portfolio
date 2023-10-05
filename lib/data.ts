@@ -35,20 +35,30 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Master degree - Informatik",
-    location: "TU Dortmund, DE",
+    title: "Data analyst",
+    location: "Huawei Technologies Deutschland GmbH , DE",
     description:
-      "During my graduate studies, I delved into subjects like data mining and machine learning algorithms. I was interested about data. I immediately found a job as a data analyst.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2014 - 2018",
+      "Data modelling with SQL, data visualization with Tableau/PowerBI and data security management.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Mai.2018 - Okt.2018",
+  },
+  {
+    title: "IT Specialist",
+    location: "Adecco Personaldienstleistung GmbH , DE",
+    description:
+      `Consulte and analyze requirements for BI and digitalization strategies.
+      Design and implemente data ETL process and generate standard dashboards.
+      Provide advice on all dashboard-related ideas and solutions (data preparation, dashboard optimization).`,
+    icon: React.createElement(CgWorkAlt),
+    date: "Nov.2018 - Jul.2019",
   },
   {
     title: "Data Analyst",
-    location: "Düsseldorf, DE",
+    location: "Manning GmbH, DE",
     description:
-      "I worked as a data analyst for 4 years. I also upskilled to the front-end stack.",
+      "I worked as data analyst, and also upskilled to the web development for data interaction requirments. My stack is HTML, CSS, Javascript, React, SQL. ",
     icon: React.createElement(CgWorkAlt),
-    date: "2018 - 2022",
+    date: "Aug.2019 - Aug.2022",
   }
   // {
   //   title: "Full-Stack Developer",
