@@ -24,8 +24,10 @@ export default function About() {
         After graduating with a master degree in{" "}
         <span className="font-medium">Computer Science</span>, I embarked on my
         professional journey. I worked as{" "}
-        <span className="font-medium">Data Analyst</span> for 4 years, primarily
-        responsible for digital operations.
+        <span className="font-medium">Data Analyst</span> for 4+ years,
+        primarily responsible for digital transformation. I provide digital
+        solutions for business projects, including data analysis and web
+        development.
       </p>
       <p>
         I implemented{" "}
@@ -53,8 +55,7 @@ export default function About() {
         books, watching movies, dancing and practicing yoga. I have always been
         curious and I greatly enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
-        learning about philosophy and divination. I'm also learning to play the
-        piano.
+        learning about philosophy. I'm also learning to play the piano.
       </p>
     </motion.section>
   );
