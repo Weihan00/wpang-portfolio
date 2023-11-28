@@ -1,10 +1,8 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import gameHub from "@/public/gameHub.png";
+import shopper from "@/public/shopper.png";
+import bookStore from "@/public/bookStore.jpg";
 
 export const links = [
   {
@@ -53,10 +51,10 @@ export const experiencesData = [
     date: "Nov.2018 - Jul.2019",
   },
   {
-    title: "Data Analyst",
+    title: "IT Specialist",
     location: "Manning GmbH, DE",
     description:
-      "I worked as data analyst, and also upskilled to the web development for data interaction requirments. My stack is HTML, CSS, Javascript, React, SQL. ",
+      "I worked not only as data analyst, but also upskilled to the web development for data interaction requirments. My stack is HTML, CSS, Javascript, React, SQL. ",
     icon: React.createElement(CgWorkAlt),
     date: "Aug.2019 - Aug.2022",
   }
@@ -72,25 +70,28 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Game Hub",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "GameHub is a video game discovery web app that helps you find new and interesting games to play. You can search for games by platform, genre, and more.",
+    tags: ["React", "Typescript", "ChakraUI", "Zustand"],
+    imageUrl: gameHub,
+    link: "https://wpang-gamehub.vercel.app/"
   },
   {
-    title: "rmtDev",
+    title: "Shopper",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "A e-commerce website built with React.js",
+    tags: ["React", ],
+    imageUrl: shopper,
+    link: "https://e-commerce-ten-nu-93.vercel.app/"
   },
   {
-    title: "Word Analytics",
+    title: "Book Store",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "A full stack web app for book store, implement backend CRUD.",
+    tags: ["React", "Node.js", "MongoDB", ],
+    imageUrl: bookStore,
+    link: "https://github.com/Weihan00/BookStore-MERN-stack"
   },
 ] as const;
 
@@ -100,13 +101,13 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "React",
-  "Next.js",
   "Node.js",
-  "Git",
+  "MongoDB",
   "Tailwind",
   "Chakra",
-  "MongoDB",
-  "Express",
-  "Python",
-  "Framer Motion",
+  "Git",
+  "SQL",
+  "Tableau",
+  "PowerBI",
+  "Python"
 ] as const;

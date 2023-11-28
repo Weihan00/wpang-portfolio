@@ -24,7 +24,7 @@ export default function About() {
         After graduating with a master degree in{" "}
         <span className="font-medium">Computer Science</span>, I embarked on my
         professional journey. I worked as{" "}
-        <span className="font-medium">Data Analyst</span> for 4+ years,
+        <span className="font-medium">IT Specialist</span> for 4+ years,
         primarily responsible for digital transformation. I provide digital
         solutions for business projects, including data analysis and web
         development.
@@ -42,10 +42,10 @@ export default function About() {
         Since then, my enthusiasm for web development has grown significantly.
         I've been dedicated to honing my skills. My core stack is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          Javascript, React, Node.js, and MongoDB
         </span>
-        . I am also familiar with TypeScript. I am always looking to learn new
-        technologies. I am currently looking for a{" "}
+        . I am also familiar with TypeScript. Recently i am learning Next.js. I
+        am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a front-end
         or full-stack developer.
       </p>
@@ -54,8 +54,7 @@ export default function About() {
         <span className="italic">When I'm not coding</span>, I enjoy reading
         books, watching movies, dancing and practicing yoga. I have always been
         curious and I greatly enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about philosophy. I'm also learning to play the piano.
+        <span className="font-medium">learning new things</span>.
       </p>
     </motion.section>
   );

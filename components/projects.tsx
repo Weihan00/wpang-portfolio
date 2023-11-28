@@ -12,6 +12,10 @@ export default function Projects() {
   return (
     <section ref={ref} id="projects" className="scroll-mt-28 mb-28">
       <SectionHeading>My projects</SectionHeading>
+      <p style={{ textAlign: "center" }}>
+        The projects listed below are created for learning and practice.
+      </p>
+      <br />
       <div>
         {projectsData.map((project, index) => (
           <React.Fragment key={index}>
