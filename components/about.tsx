@@ -24,10 +24,10 @@ export default function About() {
         After graduating with a master degree in{" "}
         <span className="font-medium">Computer Science</span>, I embarked on my
         professional journey. I worked as{" "}
-        <span className="font-medium">IT Specialist</span> for 4+ years,
-        primarily responsible for digital transformation. I provide digital
-        solutions for business groups, help organizations visualize, analyze,
-        and optimize their business processes.
+        <span className="font-medium">IT Specialist</span>, primarily
+        responsible for digital transformation. I provide digital solutions for
+        business groups, help organizations visualize, analyze, and optimize
+        their business processes.
       </p>
       <p>
         In terms of technology, my role is more like that of a data analyst and
