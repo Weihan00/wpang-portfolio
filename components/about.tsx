@@ -26,11 +26,12 @@ export default function About() {
         professional journey. I worked as{" "}
         <span className="font-medium">IT Specialist</span> for 4+ years,
         primarily responsible for digital transformation. I provide digital
-        solutions for business projects, including data analysis and web
-        development.
+        solutions for business groups, help organizations visualize, analyze,
+        and optimize their business processes.
       </p>
       <p>
-        I implemented{" "}
+        In terms of technology, my role is more like that of a data analyst and
+        web developer. I implemented{" "}
         <span className="font-medium">data ETL-process and data modeling</span>{" "}
         using SQL and visualized it through Tableau or PowerBI. Additionally, in
         response to user demands for interactive data, such as digitizing
