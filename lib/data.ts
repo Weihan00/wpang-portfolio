@@ -40,18 +40,18 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "Mai.2018 - Okt.2018",
   },
+  // {
+  //   title: "IT Specialist",
+  //   location: "Adecco Personaldienstleistung GmbH , DE",
+  //   description:
+  //     `Consulte and analyze requirements for BI and digitalization strategies.
+  //     Design and implemente data ETL process and generate standard dashboards.
+  //     Provide advice on all dashboard-related ideas and solutions (data preparation, dashboard optimization).`,
+  //   icon: React.createElement(CgWorkAlt),
+  //   date: "Nov.2018 - Jul.2019",
+  // },
   {
-    title: "IT Specialist",
-    location: "Adecco Personaldienstleistung GmbH , DE",
-    description:
-      `Consulte and analyze requirements for BI and digitalization strategies.
-      Design and implemente data ETL process and generate standard dashboards.
-      Provide advice on all dashboard-related ideas and solutions (data preparation, dashboard optimization).`,
-    icon: React.createElement(CgWorkAlt),
-    date: "Nov.2018 - Jul.2019",
-  },
-  {
-    title: "IT Specialist",
+    title: "IT Consultant",
     location: "Manning GmbH, DE",
     description:
       "I worked not only as data analyst, but also upskilled to the web development for data interaction requirments. My stack is HTML, CSS, Javascript, React, SQL. ",
